@@ -1,7 +1,8 @@
-{
-    'color1':'#FF0A0A',
-    'color2':'#C80A0A,' //渐变主题色
-    'href':'#2983cc', //单色主题
-    'bg':'bg.jpg'
-}
+    {
+        "color1":"#FFF0F5",
+        "color2":"#D3D3D3", 
+        "href":"#D3D3D3", 
+        "bg":"bg.jpg"
+    }
+
 
