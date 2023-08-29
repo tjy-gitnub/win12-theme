@@ -4,7 +4,7 @@
 
 ## 上传方式:
 
-1. 有一个github账号(后续会考虑加入microsft form匿名上传)
+1. 有一个github账号(后续会考虑加入microsoft form匿名上传)
 2. 把项目fork下来
 3. 按照提示加入自己的主题
 4. 点击项目页面上方的 `Pull Requests` 选项卡
