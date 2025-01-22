@@ -1,6 +1,8 @@
 {
-    "sp":false,
-    "bg":"url('https://bing.com/th?id=OHR.QingmingCandle2020_ZH-CN6775701680_1920x1080.jpg&qlt=100')",
-    "spth":false,
-    "death":true
+    "sp":true,
+    "bg":"url('https://cn.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1200.jpg')",
+    "spth":true,
+    "th1":"rgb(236, 98, 88)",
+    "th2":"rgb(175, 20, 20)",
+    "death":false
 }
