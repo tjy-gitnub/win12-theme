@@ -1,8 +1,8 @@
 {
-    "sp":false,
-    "bg":"url('https://cn.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1200.jpg')",
+    "sp":true,
+    "bg":"url('https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1920x1080.jpg')",
     "spth":true,
-    "th1":"rgb(236, 98, 88)",
-    "th2":"rgb(175, 20, 20)",
+    "th1":"rgb(196, 231, 166)",
+    "th2":"rgb(43, 84, 45)",
     "death":false
 }
